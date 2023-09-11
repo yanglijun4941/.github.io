@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5{font-size:14px; padding:0px; margin:0px;}
 h1{font-size:16px;}
 h5{font-size:12px;}
 .fl{float:left;}
-.fr{float:right;}
+/*.fr{float:right;}*/
 .clear_f{clear:both; height:0px; padding:0px; margin:0px; display:block; _display:inherit;}
 
 .h10{height:10px; overflow:hidden; clear:both;}
