@@ -1,0 +1,448 @@
+/*! www.vancheer.com  |  Powered by vancheer */
+@media screen and ( max-width:1600px ){
+	.zzNav{ width: 16.0rem; margin-left: -8rem;}
+
+	}
+
+@media screen and ( max-width:1440px ){
+	.zzNav .search { top: 0.24rem; }
+	}
+
+@media screen and ( max-width:1366px ){
+	.indexLayer{ display: none; }
+	.formLayer .form li{ padding-bottom:25px;}
+	.formLayer .multiple{ padding:0 0 20px; }
+	.formLayer .btnDiv{ padding:30px 0 0 105px;}
+	
+
+	}
+
+@media screen and ( max-width:1024px ){
+
+
+
+	.wal, .wal2, .w990, .w1200, .w1045, .w400{width:100%;}
+	.PC-Box, .headDiv .topRight, .pageBanner .botDiv, .pageBanner .bg, .pageNow, .pageNum, .footNav, .zzNav, .w365{ display:none;}
+	.Phone-Box, .pageTitleTel, .pageMore, .navIco, .searchIco, .headDiv .topic{ display:block;}
+	.headDiv{ height: 1.2rem; display:block!important;}
+	.headDiv .wal{ height: 1.2rem;}
+	.headDiv .logo{ left: 0.3rem; top: 0.2rem; margin-top: 0; }
+	.headDiv .logo img{ position: absolute; top: 0; width: 2.6rem; }
+	.header{ display:none!important;}
+	.ind-banner .swiper-slide .bg{ height:4.5rem;}
+	.ind-banner .one{ left: 0.3rem; margin-left: 0; } 
+	.ind-banner .one .txt1{ font-size: 0.56rem; line-height: 0.56rem; padding-bottom: 0.3rem;}
+	.ind-banner .one .txt2{ font-size: 0.28rem; line-height: 0.56rem; width: 6.0rem;}
+	.ind-banner .two{ left: 0.3rem; margin-left: 0; } 
+	.ind-banner .two .txt1{ font-size: 0.36rem; line-height: 0.36rem; padding-bottom: 0.3rem;}
+	.ind-banner .two .txt1 b{ font-size: 0.56rem;}
+	.ind-banner .two .txt2{ font-size: 0.36rem; line-height: 0.36rem;}
+	.ind-banner .two .txt2 b{ font-size: 0.56rem;}
+	.ind-banner .swiper-button-prev, .ind-banner .swiper-button-next{ display: none; }
+	.ind-banner .swiper-pagination{ bottom: 0.6rem!important; } 
+	.ind-banner .swiper-pagination-bullet { width: 0.2rem; height: 0.2rem; margin-left: 0.1rem; margin-right: 0.1rem!important; } 
+
+	
+	.indexTitle .title2{ height: 0.5rem;}
+	.indexTitle .title2:after{ width: 0.36rem; height: 1px; }
+	.indexPart1{ padding: 1.0rem 0.3rem; /* background: url(../images/indexpart1.jpg) center no-repeat; background-size: cover;*/ } 
+	.indexPart1 .leftDiv{ width: auto; }
+	.indexPart1 .links{ padding: 0.6rem 0;}
+	.indexPart1 .links li{ float: left; width: 33.33%; text-align: center; }
+	.indexPart1 .links li a{ font-size: 0.32rem; line-height: 0.74rem; }
+	.indexPart1 .links li a:before{ display: none;}
+	.indexPart1 .links li a:hover{ font-size: 0.32rem; padding-left: 0;}
+	.indexPart1 .btnDiv{ display: none;}
+	.indexPart1 .rightDiv{ width: auto; float: none; }
+	.indexPart1 .rightDiv ul{ margin-right: -0.2rem; }
+	.indexPart1 .rightDiv li{ padding-bottom: 0.3rem; }
+	.indexPart1 .rightDiv li:nth-child(2n){ float: left; }
+	.indexPart1 .rightDiv li:nth-child(2){ padding-top: 0; }
+	.indexPart1 .rightDiv li .box{ margin-right: 0.2rem; }
+	.indexPart1 .rightDiv li .nameDiv{ left: 0.35rem; bottom: 0.35rem;  }
+	.indexPart1 .rightDiv li .name1{ font-size: 0.32rem; line-height: 0.32rem; padding-bottom: 0.15rem; }
+	.indexPart1 .rightDiv li .name2{ font-size: 0.26rem; }
+
+	.indexPart2{ padding-top: 1.4rem; }
+	.indexPart2 .indexTitle{ padding-bottom: 0.75rem;}
+	.indexPart2 .indexTitle .title2:after{ margin-left: -0.18rem;}
+	.industryPic .swiper-slide .layer{ left: 0.3rem; top: auto; box-sizing: border-box; padding-left: 1.8rem; right: 0.3rem; height: 2.0rem; bottom: 0; background: #2ba0e8; }
+	.industryPic .swiper-slide .ico{ padding-bottom: 0; position: absolute; left: 0.4rem; top: 0.4rem; }
+	.industryPic .swiper-slide .ico img{ width: 0.9rem; }
+	.industryPic .swiper-slide .name{ padding-top: 0.2rem; font-size: 0.32rem; line-height: 0.48rem; }
+	.industryPic .swiper-slide .msg{ font-size: 0.42rem; line-height: 0.42rem; padding-top: 0.1rem; }
+	.industryPic .swiper-slide .more{ left: auto; bottom: 0; height: 2.0rem; line-height: 2.0rem; right: 0.7rem; }
+	.industryPic .swiper-slide .more img{ width: 0.64rem; }
+	.industryPic .swiper-slide .after{ display:none;}
+	.industryPic .swiper-slide:hover .layer, .industryPic .swiper-slide:hover .more{ opacity:1;}
+	.industryPic .swiper-button-prev{ margin-top: -0.48rem; width: 0.96rem; height: 0.96rem; }
+	.industryPic .swiper-button-next{ margin-top: -0.48rem; width: 0.96rem; height: 0.96rem; }
+	.indexPart3{ padding: 0.8rem 0.3rem 0.6rem; }
+	.indexPart3 .toptop{ padding-bottom: 0.6rem; }
+	.indexPart3 .tab{ top: 0.3rem; }
+	.indexPart3 .tab li{ margin-left: 0.5rem; height: 0.56rem; font-size: 0.28rem; }
+
+	.indexPart3 .list ul{ margin-right: 0; }
+	.indexPart3 .list li{ float: none; width: auto; }
+	.indexPart3 .list li .box{ margin-right: 0; position: relative; padding-left: 3.2rem; height: 2.2rem; }
+	.indexPart3 .list li .imgDiv{ position: absolute; left: 0; top: 0; border-top-left-radius: 0.48rem; }
+	.indexPart3 .list li .imgDiv img{ width: 2.8rem; }
+	.indexPart3 .list li .time{ margin-top: 0; padding-left: 0.36rem; font-size: 0.28rem; background-size: 0.24rem;}
+	.indexPart3 .list li .name{ font-size: 0.3rem; height: 0.96rem; line-height: 0.48rem; padding-top: 0.1rem; }
+	.indexPart3 .list li .content{ display: none; }
+	.indexPart4{ padding: 0.8rem 0.3rem; }
+	.indexPart4 .indexTitle{ padding-bottom: 0.6rem;}
+	.indexPart4 .indexTitle .title2:after{ margin-left: -0.18rem; }
+	/*.logoPic{ padding-bottom: 0.8rem;}*/
+	.logoPic ul{ margin-right:-0.2rem;}
+	.logoPic li{ width:33.33%; padding-bottom:0.2rem;}
+	.logoPic li .box{ margin-right:0.2rem;}
+	.logoPic .swiper-pagination-bullet{ margin: 0 0.2rem; width: 0.2rem; height: 0.2rem; }
+	.footDiv{ padding: 0.9rem 0.3rem 0; height: auto;}
+	.footDiv .tel{ text-align: center; font-size: 0.42rem; line-height: 0.42rem; }
+	.footDiv .msgList{ padding: 0.2rem 0 0.3rem; }
+	.footDiv .msgList li{ text-align: center; line-height: 0.56rem; font-size: 0.26rem; }
+	.footDiv .ewm{ float: none; text-align: center; padding-top: 0.3rem; }
+	.footDiv .ewm img{ width: 2.0rem; }
+	.foot{ height: auto; padding: 0.6rem 0.3rem 0.4rem;}
+	.foot .wal{ height: auto; }
+	.foot .msg{ clear: both; padding-top: 0.6rem; line-height: 0.48rem; text-align: center; font-size: 0.24rem; }
+	.foot .msg a{ padding-left: 0.2rem; }
+	.foot .share{ position: relative; right: 0; top: 0; text-align: center;}
+	.foot .share li{ float: none; display: inline-block; margin-left: 0.1rem; margin-right: 0.1rem; }
+	.foot .share li a{ width: 0.76rem; height: 0.76rem; }
+	.pageBanner{ height: 3.5rem; }
+	.pageBox{ padding: 0.8rem 0.3rem; }
+	.pageTitle .title1{ font-size: 0.66rem; line-height: 0.66rem;}
+	.pageTitle .title2{ font-size: 0.36rem; line-height: 0.36rem; padding-top: 0.1rem; letter-spacing: 0.08rem; }
+	.news{ padding-top: 0.7rem; }
+	.news ul{ margin-right: 0; }
+	.news li{ float: none; width: 100%; padding-bottom: 0.6rem; }
+	.news li .box{ margin-right: 0; }
+	.news li .botDiv{ padding: 0.45rem 0.4rem 0; height: 3.0rem; box-sizing: border-box; box-shadow: 0px 0px 0.3rem 0px rgba(0, 0, 0, 0.08); }
+	.news li .name{ font-size: 0.32rem; line-height: 0.5rem; height: 0.5rem; }
+	.news li .content{ padding-top: 0.1rem; font-size: 0.26rem; line-height: 0.48rem; height: 0.96rem; }
+	.news li .time{ font-size: 0.32rem; }
+	.newShow .name{ font-size: 0.4rem; line-height: 0.56rem padding-bottom: 0.35rem; }
+	.newShow .toptop{ height: auto; padding-bottom: 0.4rem; }
+	.newShow .time{ font-size: 0.28rem; padding-right: 0.4rem; float: none;}
+	.newShow .share{ float: none; padding-top: 0.4rem; }
+	.newShow .share li{ margin-right: 0.3rem; }
+	.newShow .share li img{ width: 0.48rem; }
+	.newShow .content{ font-size: 0.26rem; line-height: 0.48rem; padding: 0.4rem 0; }
+	.newShow .imgDiv{ padding: 0.5rem 0; }
+	.newShow .content img{ width: 100%; }
+	.pageDown{ padding-top: 0.6rem; }
+	.pageDown .list li{ font-size: 0.26rem; }
+	.pageDown .list li a{ height: 0.64rem; line-height: 0.64rem; }
+	.pageDown .btnDiv{ position: relative; top: 0; padding-top: 0.5rem; }
+	.pageDown .btnDiv a{ width: 3.2rem; height: 0.96rem; border-radius: 0.48rem; line-height: 0.96rem; text-indent: 0.5rem; font-size: 0.3rem; }
+	.pageDown .btnDiv a:after{ right: 0.48rem; }
+	.technology{ padding-top: 0.6rem; }
+	.technology li{ height: 2.8rem; margin-bottom: 0.5rem; }
+	.technology li a{ height: 2.8rem; padding-left: 0.5rem; padding-right: 0.5rem;}
+	.technology li .name{ font-size: 0.32rem; padding-top: 0.5rem; height: 0.56rem; line-height: 0.56rem; }
+	.technology li .content{ padding-top: 0.15rem; font-size: 0.26rem; line-height: 0.48rem; height: 0.96rem; }
+	.technology li .timeDiv, .technology li .ico, .technology li .btnDiv{ display: none;}
+	.dealer{ padding: 0.6rem 0 0; }
+	.dealer .list ul{ margin-right: 0; }
+	.dealer .list li{ float: none; width: 100%; padding-bottom: 0.45rem; }
+	.dealer .list li .box{ margin-right: 0; height: 4.0rem; padding: 0.6rem 0.4rem 0; background-size: 4.2rem; }
+	.dealer .list li .name{ font-size: 0.32rem; line-height: 0.48rem; height: 0.96rem; }
+	.dealer .list li .msg{ font-size: 0.26rem; line-height: 0.48rem; padding-top: 0.08rem; }
+	
+	.dealer .pjDiv{ padding-left:0; padding-bottom: 0.6rem;}
+	.dealer .pjDiv .txt{ position:relative; line-height:0.6rem; font-size: 0.3rem; padding-bottom:0.3rem;}
+	.dealer .select{ width: 100%; height: 0.9rem; }
+	.dealer .select dt{height: 0.9rem;line-height: 0.9rem;  }
+	.dealer .select dt a{ font-size: 0.26rem; padding-left: 0.2rem; } 
+	.dealer .select dd{ top: 0.9rem; } 
+	.dealer .select dd ul { padding: 0 0.2rem;  height:3.25rem;} 
+	.dealer .select dd ul li{ line-height: 0.8rem; height: 0.8rem; font-size: 0.26rem;}
+	.dealer .select dd ul::-webkit-scrollbar {
+	  width: 2px;
+	}
+	
+	.contact{ padding-top: 0.7rem;}
+	.contact .content{ font-size: 0.28rem; line-height: 0.52rem; padding-bottom: 1.0rem; }
+	.contact .list ul{ display: block; }
+	.contact .list li{ padding-bottom: 0.6rem; }
+	.contact .list li:last-child{ padding-bottom: 0; }
+	.contact .list li .ico{ width: 1.8rem; height: 1.8rem; }
+	.contact .list li .ico img{ width: 0.86rem; margin-left: -0.43rem; margin-top: -0.43rem; }
+	.contact .list li .name{ font-size: 0.34rem; line-height: 0.34rem; padding: 0.4rem 0 0.25rem; }
+	.contact .list li .msg{ font-size: 0.28rem; line-height: 0.52rem; text-align: center;}
+	.job{ padding-top: 0.7rem;}
+	.jobTop{ height: 1rem;}
+	.jobTop li{ height: 1rem; line-height: 1rem; font-size: 0.28rem;}
+	.jobTop .li01{ width: 60%; text-align: left; text-indent: 0.3rem; }
+	.jobTop .li02, .jobTop .li03{ display: none; }
+	.jobTop .li04{ width: 30%; }
+	.job .list{ padding-bottom:0.7rem;}
+	.job .list li .msgDiv{ height:1rem; position:relative;}
+	.job .list li .msgDiv:after{ right: 0.3rem; line-height: 0.28rem; margin-top: -0.14rem; font-size: 0.28rem; margin-top: -0.12rem; }
+	.job .list li .msgDiv a{ height: 1rem; }
+	.job .list li .msgDiv dd{ height:1rem; line-height: 1rem; font-size:0.26rem;}
+	.job .list li .msgDiv .dd01{ width: 60%; text-indent: 0.3rem; background: none;}
+	.job .list li .msgDiv .dd04{ padding-left: 0; width: 30%; }
+	.job .list li .msgDiv .dd02, .job .list li .msgDiv .dd03{ display: none; }
+	.job .list li .box{ padding: 0.5rem 0.35rem;}
+	.job .list li h2{ font-size: 0.28rem; line-height: 0.28rem; padding-bottom: 0.3rem; }
+	.job .list li .content{ line-height:0.56rem; padding-bottom: 0.4rem; font-size:0.24rem;}
+	.job .list li .tips{ height: 0.86rem; line-height: 0.86rem; padding: 0 0.36rem; font-size: 0.26rem; border-radius: 0.48rem;}
+	.lyb{ padding-top: 0.6rem; }
+	.lyb .form ul{ margin-right: 0; }
+	.lyb .form li{ float: none; width: 100%; padding-bottom: 0.35rem;}
+	.lyb .form li .box{ margin-right: 0; padding-left: 2.0rem; height: 1rem; }
+	.lyb .form li .txt{ line-height: 0.86rem; font-size: 0.3rem; }
+	.lyb .form li .input1{ height: 0.86rem; line-height: 0.86rem; font-size: 0.28rem;}
+	.lyb .btnDiv{ padding-top: 0.4rem; }
+	.lyb .btnDiv a{ width: 2.4rem; font-size: 0.32rem; height: 0.9rem; line-height: 0.9rem; border-radius: 0.48rem; }
+
+	.aboutPart1{ padding: 1.0rem 0.3rem; }
+	.aboutPart1 .mxfDiv{ margin-top: 0.6rem;}
+	.aboutPart1 .leftDiv{ position: relative; left: 0; margin-left: 0; width: auto; padding: 0 0 0.8rem; }
+	.aboutPart1 .rightImg{ width: 100%; height: auto;}
+	.aboutPart1 .name{ padding-bottom: 0.3rem; font-size: 0.42rem; line-height: 0.42rem;  }
+	.aboutPart1 .wen{ font-size: 0.3rem; line-height: 0.3rem;  }
+	.aboutPart1 .content{ font-size: 0.28rem; line-height: 0.52rem; padding-top: 0.6rem; }
+	.aboutPart2{ padding: 0.8rem 0.3rem 0.9rem; }
+	.aboutPart2 .wal { min-height: 3rem; }
+	.aboutPart2 .title{ font-size: 0.4rem; line-height: 0.8rem; padding-bottom: 0.8rem;}
+	.aboutPart2 .list { width: auto; }
+	.aboutPart2 .list li .box{ min-height: 3rem; }
+	.aboutPart2 .list li .name{ bottom: -0.9rem; height: 0.9rem; line-height: 0.9rem; font-size: 0.26rem; }
+	.aboutPart2 .arrowDiv { right: 0; margin-right: 0; }
+	.aboutPart2 .arrowDiv a { width: 40px; height: 40px; }
+	.aboutPart2 .arrowDiv a.next { margin-left: 0.3rem; }
+	.aboutPart3{ padding: 1.0rem 0.3rem 0.6rem; }
+	.aboutPart3 .pageTitle{ padding-bottom: 0.6rem; }
+	.aboutPart3 .bigBox{ height: 5.2rem;}
+	.aboutPart3 .layer{ padding-left: 0.6rem; }
+	.aboutPart3 .ico img{ width: 0.96rem; }
+	.aboutPart3 .name{ font-size: 0.4rem; line-height: 0.4rem; padding: 0.45rem 0 0.3rem;}
+	.aboutPart3 .wen{ font-size: 0.3rem; line-height: 0.3rem; }
+	.aboutPart3 .list{ padding-top: 0.9rem; }
+	.aboutPart3 .list ul{ margin-right: -0.2rem; }
+	.aboutPart3 .list li { width: 50%; padding-bottom: 0.4rem;}
+	.aboutPart3 .list li .box{ margin-right: 0.2rem; min-height: 4.65rem;}
+	.aboutPart3 .list li .touDiv{ padding: 0.2rem 0 0 0.8rem;}
+	.aboutPart3 .list li .touDiv:after{ content: ''; width: 12px; height: 2px; background: #d8d8d8; position: absolute; left: 0.2rem; bottom: 0;}
+	.aboutPart3 .list li .ico img{ width: 0.52rem; }
+	.aboutPart3 .list li .imgDiv img{ width: 100%; }
+	.aboutPart3 .list li .E-name{ font-size: 0.36rem; line-height: 0.36rem; padding: 0.3rem 0 0 0.8rem; }
+	.aboutPart3 .list li .C-name{ font-size: 0.26rem; padding: 0.15rem 0 0 0.8rem; }
+	.aboutPart3 .list li .box:hover{ box-shadow: 0px 5px 0.4rem 3.04px rgba(0, 0, 0, 0.2); }
+	.aboutPart4{ padding: 0.9rem 0.3rem; height: auto; }
+	.aboutPart4 .toptop{ padding-bottom: 0.75rem;}
+	.aboutPart4 .list { width: auto; }
+	.historyPic:before{ top: 0.9rem;  }
+	.historyPic .swiper-slide .year{ font-size: 0.5rem; height: 1.1rem; line-height: 0.5rem;  }
+	.historyPic .swiper-slide .year:after{ width: 0.24rem; height: 0.3rem; background-size: 0.24rem; }
+	.historyPic .swiper-slide .txt{ font-size: 0.38rem; padding-top: 0.2rem; height: 0.9rem; }
+	.historyPic .swiper-slide .contentBox{ height: 3.0rem; }
+	.historyPic .swiper-slide .msg{ padding: 0.4rem 0.3rem 0; font-size: 0.26rem; line-height: 0.52rem; }
+	.aboutPart4 .arrowDiv { right: 0; margin-right: 0; top: 0.8rem; }
+	.aboutPart4 .arrowDiv a { width: 40px; height: 40px; }
+	.aboutPart4 .arrowDiv a.next { margin-left: 0.3rem; }
+	.cellPart1{ padding: 0.8rem 0.3rem 0.7rem; }
+	.cellPart1 .name{ font-size: 0.36rem; line-height: 0.36rem; padding-bottom: 0.5rem; }
+	.cellPart1 .msg{ font-size: 0.28rem; padding-bottom: 0.4rem; }
+	.cellPart1 .list li{ padding-bottom: 0.6rem; }
+	.cellPart1 .list li .txt{ font-size: 0.3rem; padding-bottom: 0.4rem; }
+	.cellPart1 .list li .leftImg, .cellPart1 .list li .rightImg{ float: none; }
+	.cellPart1 .list li .leftImg img{ width: 100%; }
+	.cellPart1 .list li .rightImg{ padding-top: 0.3rem; }
+	.cellPart1 .list li .rightImg img{ width: 100%; }
+	.cellPart1 .tips{ font-size: 0.28rem; }
+	.cellPart2{ padding: 0.9rem 0.3rem; }
+	.cellPart2 .list ul{ margin-right: -0.2rem; }
+	.cellPart2 .list li{ width: 50%; padding-bottom: 0.3rem; }
+	.cellPart2 .list li .box{ margin-right: 0.2rem; }
+	.cellPart2 .list li .name{ height: 0.8rem; line-height: 0.8rem; font-size: 0.3rem; }
+	.cellPart2 .list li .txt{ margin-left: -1.4rem; font-size: 0.3rem; width: 2.8rem; height: 0.96rem; line-height: 0.96rem; margin-top: -0.48rem; }
+	.jiandPart1{ padding: 1.0rem 0.3rem 0.9rem; }
+	.jiandPart1 .content{ padding: 0.7rem 0 0.45rem; font-size: 0.28rem; line-height: 0.52rem; }
+	.jiandPart1 .imgDiv img{ width: 100%; }
+	.jiandPart2{ padding: 0.7rem 0.3rem 0.85rem; }
+	.jiandPart2 .title{ font-size: 0.32rem; line-height: 0.32rem; padding-bottom: 0.4rem; }
+	.jiandPart2 .list{ background: none;}
+	.jiandPart2 .list ul{ display: block;}
+	.jiandPart2 .list li{ padding-bottom:0.6rem; background:url(../images/nimg23_1.png) center bottom no-repeat; background-size:0.32rem; margin-bottom:0.2rem;}
+	.jiandPart2 .list li:last-child{ padding-bottom:0; background:none;}
+	.jiandPart2 .list li .box{ width: 3.2rem; height: 1.6rem; margin:0 auto; }
+	.jiandPart2 .list li em{ line-height: 0.48rem; font-size: 0.28rem; }
+	.jiandPart3{ padding: 0.75rem 0.3rem 0.8rem; }
+	.jiandPart3 .txt{ font-size: 0.32rem; line-height: 0.32rem; padding-bottom: 0.5rem; }
+	.jiandPart3 .content{ font-size: 0.28rem; line-height: 0.52rem; padding-bottom: 0.4rem; }
+	.jiandPart3 .tips{ font-size: 0.28rem; padding-bottom: 0.6rem;}
+	.jiandPart3 .list li{ font-size: 0.26rem; line-height: 0.48rem; padding: 0.25rem 0; }
+	.jiandPart3 .btnDiv{ padding:0.3rem 0 0.6rem;}
+	.jiandPart3 .btnDiv a{ width:2.4rem; height: 0.86rem; line-height: 0.86rem; font-size: 0.3rem;}
+	.buildPart1{ padding: 0.9rem 0.3rem; }
+	.buildPart1 .content{ padding-top: 0.6rem; font-size: 0.28rem; line-height: 0.56rem; }
+	.buildPart1 .imgDiv{ padding-top: 0.6rem; }
+	.buildPart1 .imgDiv img{ width:100%;}
+	.buildPart2{ padding: 0.7rem 0.3rem 0.85rem; }
+	.buildPart2 .title{ font-size: 0.32rem; line-height: 0.32rem; padding-bottom: 0.4rem; }
+	.buildPart2 .list{ background: none;}
+	.buildPart2 .list ul{ display: block;}
+	.buildPart2 .list li{ padding-bottom:0.6rem; background:url(../images/nimg23_1.png) center bottom no-repeat; background-size:0.32rem; margin-bottom:0.2rem;}
+	.buildPart2 .list li:last-child{ padding-bottom:0; background:none;}
+	.buildPart2 .list li .box{ width: 3.2rem; height: 1.6rem; margin:0 auto; }
+	.buildPart2 .list li em{ line-height: 0.48rem; font-size: 0.28rem; }
+	.buildPart3{ padding: 0.6rem 0.3rem 0.9rem; }
+	.buildPart3 .content{ font-size: 0.28rem; line-height: 0.56rem; }
+	.buildPart3 .tips{ font-size: 0.28rem; padding-top: 0.6rem; }
+	.service{ padding: 0.9rem 0.3rem; }
+	.service .content{ font-size: 0.28rem; line-height: 0.64rem; padding: 0.7rem 0 0.5rem; }
+	.service .applyBtn{ padding: 0 0 0.6rem;}
+	.service .videobox .layer{ margin-top: -0.6rem; }
+	.service .videobox .ico img{ width: 1.2rem; }
+	.training{ padding: 0.9rem 0.3rem; }
+	.training .content{ font-size: 0.28rem; line-height: 0.64rem; padding: 0.7rem 0 0.5rem;}
+	.training .applyBtn{ padding: 0 0 0.6rem;}
+	.training .layer{ position: relative; right: 0; bottom: 0; border: none;}
+	.training .layer:before, .training .layer .limg{ display: none; }
+	.training .txt{ padding-top: 0.3rem; position: relative; top: 0; transform: translateY(0); color: #333; font-size: 0.28rem; }
+	.training .num, .training .txt em{ display: none; }
+	.trainPic .swiper-button-prev{ left: 0.3rem; margin-top: -0.45rem; width: 0.9rem; height: 0.9rem; }
+	.trainPic .swiper-button-next{ right: 0.3rem; margin-top: -0.45rem; width: 0.9rem; height: 0.9rem; }
+	.productBox{ padding:0.8rem 0.3rem 1.0rem;}
+	.productBox .toptop{ height: auto; padding-bottom: 0.5rem; }
+	.productBox .title{ line-height:0.64rem; font-size: 0.36rem; padding-bottom: 0.4rem; }
+	.productBox .form{ position:relative; width:100%; height:0.9rem; }
+	.productBox .form .input1{ height:0.9rem; line-height:0.9rem; padding-left: 0.3rem; font-size:0.28rem; }
+	.productBox .form .btn1{ width: 0.9rem; height: 0.9rem; background-size: 0.38rem;}
+	.chooseDiv{ padding-top: 0.5rem;}
+	.chooseDiv .tab3 ul{ margin-right: -0.3rem; }
+	.chooseDiv .tab3 li .box{ margin-right: 0.3rem; text-indent:0.24rem; width: auto; height: 0.86rem; font-size:0.3rem; line-height:0.84rem; border-radius:8px;}
+	.chooseDiv .tab3 li .box:after{ right:0.25rem; margin-top:-0.05rem; width:0.22rem; height:0.1rem; background-size:0.22rem;}
+	.chooseDiv .tab3 .liNow .box:after{ background-size:0.22rem;}
+	.chooseDiv .tabContentDiv3{ padding-top: 0.4rem;}
+	.chooseDiv .bigBox{ padding-top:16px; position:relative;}
+	.chooseDiv .bg{ position:absolute; top:0; width:20px; height:16px; background: url(../images/nimg20bg.png) center no-repeat;}
+	.chooseDiv .bg1{ left:16%;}
+	.chooseDiv .bg2{ left:50%; margin-left:-10px;}
+	.chooseDiv .bg3{ left:83%; margin-left:-10px; }
+	.chooseDiv .liebiao{ padding: 0.35rem 0.3rem 0.15rem; border-radius:0.32rem; height:2.6rem; overflow:auto;}
+	.chooseDiv .liebiao li{ font-size: 0.28rem; margin-bottom:0.3rem;}
+	.chooseDiv .liebiao li .box{ margin-right:0.2rem;}
+	.chooseDiv .liebiao li a{ height: 0.64rem; line-height: 0.64rem; padding:0 0.2rem; border-radius:0.12rem;}
+	.productBox .content{ font-size:0.26rem; line-height:0.52rem; padding-top:0.4rem;}
+	.productBox .list{ padding-top: 0.5rem; }
+	.productBox .list ul{ margin-right: -0.2rem; }
+	.productBox .list li{ width: 50%; padding-bottom: 0.5rem; }
+	.productBox .list li .box{ margin-right: 0.2rem; }
+	.productBox .list li .name{ font-size: 0.36rem; line-height: 0.48rem; height:0.48rem; overflow:hidden; margin: 0.25rem 0 0; }
+	.productBox .list li .wen{ display: none; }
+
+	.productPart1{ padding:0.8rem 0.3rem 1.0rem;}
+	.productPart1 .toptop{ height: auto; padding-bottom: 0.5rem; }
+	.productPart1 .title{ line-height:0.64rem; font-size: 0.36rem; }
+	.productPart1 .base-box{ padding-top: 0.45rem; }
+	.productPart1 .pics { width: 100%; float: none; }
+  	.productPart1 .pics .swiper-container { padding-bottom: 1.2rem; background: #fff; }
+  	.productPart1 .pics .swiper-slide { padding: 0; }
+  	.productPart1 .bigImg img{ height: auto; }
+  	.productPart1 .pics .swiper-pagination { bottom: 0.6rem;}
+  	.productPart1 .pics .swiper-pagination .swiper-pagination-bullet { opacity: 1; background: none; margin: 0 5px; width: 8px; height: 8px; border: 1px solid #2ba0e8; transition: width 0.3s ease; -webkit-transition: width 0.3s ease; -moz-transition: width 0.3s ease; -ms-transition: width 0.3s ease; -o-transition: width 0.3s ease; }
+  	.productPart1 .pics .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active { background: #2ba0e8; border-radius: 30px; width: 24px; }
+  	.productPart1 .thumbs { display: none;}
+  	.productPart1 .info{ width: auto; float: none; background: #f9f9f9; height: auto; }
+	.productPart1 .mxfDiv{ padding: 0.8rem 0.3rem; }
+	.productPart1 .name{ font-size: 0.4rem; line-height: 0.56rem; padding-bottom: 0.3rem; }
+	.productPart1 .name:after{ width: 0.56rem; height: 2px; }
+    .productPart1 .bieming{ padding-top: 0.3rem; font-size: 0.26rem; }
+	.productPart1 .msgList{ padding-top: 0.3rem; }
+	.productPart1 .msgList li{ float: none; width: 100%; font-size: 0.26rem; line-height: 0.56rem; height:auto; }
+	.productPart1 .btnDiv{ width:auto; padding-right:0.3rem;}
+	.productPart1 .btnDiv a{ width: 2.4rem; height: 0.8rem; line-height: 0.8rem; border-radius: 0.48rem; font-size: 0.3rem; }
+	.productPart2{ padding: 0 0.3rem 0.9rem; }
+	.productPart2 .bigBox{ padding: 0.6rem 0;}
+	.productPart2 .title{ font-size: 0.32rem; line-height: 0.32rem; padding-left: 0.2rem; margin-bottom:0.3rem;}
+	.productPart2 .title2{ margin-bottom: 0.5rem;}
+	.productPart2 .msgList{ padding-top: 0.5rem; }
+	.productPart2 .msgList li{ font-size: 0.28rem; line-height: 0.56rem; }
+	.productPart2 .msgList li b{ font-size: 0.32rem; }
+	.productPart2 .txt{ font-size: 0.32rem; padding: 0.25rem 0; }
+	.productPart2 .longDiv{ overflow: auto; }
+	.productPart2 .table{ width: 14.0rem; }
+	.productPart2 .table td{ height: 1.2rem; font-size: 0.28rem; line-height: 0.5rem;}
+	.productPart2 .l7List li{ font-size:0.26rem; line-height:0.52rem; padding-left:2.0rem; }
+	.productPart2 .imgList{ padding:0.3rem 0 0;}
+	.productPart2 .imgList ul{ margin-right:-0.3rem;}
+	.productPart2 .imgList li{ width:50%;}
+	.productPart2 .imgList li .box{ margin-right:0.3rem;}
+	.productPart2 .imgList li .imgDiv img{ width:100%;}
+	.productPart2 .imgList li p{ font-size:0.26rem; padding-top:0.2rem;}
+	.productPart2 .wen{ font-size:0.32rem; line-height:0.32rem; padding-bottom:0.15rem;}
+	.productPart2 .content{ font-size:0.26rem; line-height: 0.5rem; padding-bottom:0.3rem;}
+	.productPart2 .msgList{ padding-top:0.2rem;}
+	.productPart2 .msgList li{ padding-bottom: 0.3rem; font-size:0.26rem; line-height: 0.48rem;}
+	.productPart2 .msgList li p{ padding-left:0.3rem;}
+	.productPart2 .pjys{ height:0.86rem; line-height:0.86rem; font-size:0.32rem; margin-bottom:0.35rem;}
+
+	
+	.productPart3{ padding: 0.85rem 0.3rem 0.6rem; }
+	.productPart3 .title1{ font-size: 0.36rem; line-height: 0.36rem; padding-bottom: 0.4rem; }
+	.productPart3 .title2{ font-size: 0.28rem; line-height: 0.28rem; }
+	.productPart3 .list{ padding-top: 0.6rem; }
+	.productPart3 .list ul{ margin-right: -0.2rem; }
+	.productPart3 .list li{ width: 50%; padding-bottom: 0.5rem; }
+	.productPart3 .list li .box{ margin-right: 0.2rem; }
+	.productPart3 .list li .name{ font-size: 0.36rem; line-height: 0.48rem; padding-bottom: 0; }
+	.productPart3 .list li .wen{ display: none; }
+	.downModal-box .formLayer{ width: 94%; padding: 0.8rem 0.3rem; }
+	.formLayer .close{ right:0; top:0; width:0.5rem; height:0.5rem; background-size:0.5rem;}
+	.formLayer .scroll{ height: 80vh; overflow:auto; position:relative;}
+	.formLayer .title{ font-size:0.42rem; line-height:0.42rem; padding-bottom:0.35rem;}
+	.formLayer .msg{ font-size: 0.26rem; padding-bottom: 0.4rem; line-height:0.48rem;}
+	.formLayer .form ul{ margin-right:0;}
+	.formLayer .form li{ float:none; width:100%; padding-bottom:0.2rem;}
+	.formLayer .form li .box{ margin-right:0; padding-left:1.8rem; height:0.9rem;}
+	.formLayer .form li p{ line-height: 0.9rem; font-size:0.3rem;}
+	.formLayer .form li .input1{ height: 0.9rem; line-height: 0.9rem; padding-left:0.2rem; font-size: 0.26rem; }
+	.formLayer .selectBox{ padding-left: 0;}
+	.formLayer .selectBox p{ position:relative; line-height:0.6rem; font-size:0.3rem; padding-bottom:0.2rem;}
+	.formLayer .selectBox .bdc{ margin-right: 0; }
+	.formLayer .selectBox .liDiv{ width: 100%; float: none; padding-bottom: 0.2rem;}
+	
+	.formLayer .selectBox .liDiv .box{ margin-right: 0;}
+	.formLayer .selectBox .select{ height: 0.9rem;}
+	.formLayer .selectBox .select dt{height: 0.9rem;line-height: 0.9rem;  }
+	.formLayer .selectBox .select dt a{ font-size: 0.26rem; padding-left: 0.2rem; } 
+	.formLayer .selectBox .select dd{ top: 0.9rem; } 
+	.formLayer .selectBox .select dd ul { padding: 0 0.2rem;  height:4.05rem;} 
+	.formLayer .selectBox .select dd ul li{ line-height: 0.8rem; height: 0.8rem; font-size: 0.26rem;}
+	.formLayer .selectBox .select dd ul::-webkit-scrollbar {
+	  width: 2px;
+	}
+	.formLayer .multiple{ padding:0.3rem 0 0.4rem; }
+	.formLayer .multiple p{ line-height:0.6rem; font-size:0.3rem;}
+	.formLayer .multiple li{ padding-right: 0.5rem; font-size: 0.28rem; padding-bottom:0.2rem; }
+	.formLayer .multiple li .lbox{ padding-left: 25px; height: 0.6rem; line-height: 0.6rem; }
+	.formLayer .multiple li .lbox:before{ content:''; position:absolute; left:0; top:50%; margin-top:-8px; width:14px; height:14px; border:#999 solid 1px;}
+	.formLayer .yzm{ padding-left:1.6rem;}
+	.formLayer .yzm p{ font-size:0.3rem; line-height:0.9rem; }
+	.formLayer .yzm .lbox{ height:0.9rem; width:40%; }
+	.formLayer .yzm .input1{ height: 0.9rem; line-height: 0.9rem; padding-left:0.2rem; font-size: 0.26rem; }
+	.formLayer .yzm .limg{ padding-left:0.3rem; width:2.4rem;}
+	.formLayer .yzm .limg img{ height:0.9rem;}
+	.formLayer .btnDiv{ padding:0.3rem 0 0 0;}
+	.formLayer .btnDiv a{ width:2.4rem; height: 0.86rem; line-height: 0.86rem; font-size: 0.3rem;}
+	.applyBtn{ padding:0.3rem 0 0;}
+	.applyBtn a{ width:2.4rem; height: 0.86rem; line-height: 0.86rem; font-size: 0.3rem;}
+	
+	.sidePro{ padding: 0.5rem 0.3rem; margin-top:0.6rem; overflow:hidden;}
+	.sidePro .title{ font-size: 0.32rem; line-height: 0.32rem; padding-left: 0.2rem; margin-bottom:0.5rem;}
+	.sidePro .list ul{ margin-right:-0.2rem;}
+	.sidePro .list li{ padding:0 0 0.5rem; float:left; width:50%; border-bottom: none;}
+	.sidePro .list li .box{ margin-right:0.2rem;}
+	.sidePro .list li .name{ padding-top: 0.2rem; font-size: 0.36rem; height:0.48rem; line-height: 0.48rem; }
+	.sidePro .list li .dala{ display:none;}
+
+	.links {height: auto;padding: 0.6rem 0.3rem 0.4rem;}
+	.links a{margin-bottom:0.1rem;display:inline-block;}
+}
+
