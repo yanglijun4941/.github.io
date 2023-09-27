@@ -136,7 +136,7 @@
 	.pageDown .list li{ font-size: 0.26rem; }
 	.pageDown .list li a{ height: 0.64rem; line-height: 0.64rem; }
 	.pageDown .btnDiv{ position: relative; top: 0; padding-top: 0.5rem; }
-	.pageDown .btnDiv a{ width: 3.2rem; height: 0.96rem; border-radius: 0.48rem; line-height: 0.96rem; text-indent: 0.5rem; font-size: 0.3rem; }
+	.pageDown .btnDiv a{ /*width: 3.2rem; */height: 0.96rem; border-radius: 0.48rem; line-height: 0.96rem; text-indent: 0.5rem; font-size: 0.3rem; }
 	.pageDown .btnDiv a:after{ right: 0.48rem; }
 	.technology{ padding-top: 0.6rem; }
 	.technology li{ height: 2.8rem; margin-bottom: 0.5rem; }
